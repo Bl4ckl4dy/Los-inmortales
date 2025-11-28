@@ -1,0 +1,66 @@
+
+{
+"name": "Saga Highlander",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "by YIsus_mEx",
+"stations":
+    [
+        {
+        "name": "Los Inmortales I",
+        "info":"[Español][1986]",
+        "image": "https://i.postimg.cc/4NgY40fD/Highlander-01.png",
+        "url":"https://filemoon.to/d/9ygfrfl3n2q0/Los_inmortales.mp4",
+        "isHost": "true",
+        "online": "true",
+                "userAgent":"PlusMediaPlayer/0.0.9"
+       	},
+        {
+        "name": "Los Inmortales II: El Desafío",
+        "info":"[Español][1991]",
+        "image": "https://i.postimg.cc/wB7vb82m/Highlander-02.png",
+        "url":"https://filemoon.to/d/tsg43l3p2qnt/Los_inmortales_II_El_desaf_o.mp4",
+       	"isHost": "true",
+       	"online": "true",
+	        "userAgent":"PlusMediaPlayer/0.0.9"
+       	},
+        {
+        "name": "Los Inmortales III: El Hechicero",
+        "info":"[Español][1995]",
+        "image": "https://i.postimg.cc/43q3DL2F/Highlander-03.png",
+        "url":"https://filemoon.to/d/c3d4ksdfgyjp/Los_inmortales_III_El_hechicero.mp4",
+       	"isHost": "true",
+       	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9"
+       	},
+        {
+        "name": "Los Inmortales: Juego Final",
+        "info":"[Español][2000]",
+        "image": "https://i.postimg.cc/2yF8BzkP/Highlander-04.png",
+        "url":"https://filemoon.to/d/rtl2kmts0bm3/Los_inmortales_Juego_final.mp4",
+        "isHost": "true",
+       	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9"
+       	},
+        {
+        "name": "Los inmortales: En Busca de la Venganza",
+        "info":"[Español][2007]",
+        "image": "https://i.postimg.cc/Cx6M8r0L/Highlander-05.png",
+        "url":"https://filemoon.to/d/1556anfplhkj/Los_inmortales_En_busca_de_la_venganza.mp4",
+       	"isHost": "true",
+       	"online": "",
+                "userAgent":"PlusMediaPlayer/0.0.9"
+       	},
+        {
+        "name": "Los inmortales: El origen",
+        "info":"[Español][2007]",
+        "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/x3VRXD4FczVnVtslPjUVTB3AlRP.jpg",
+        "url":"https://filemoon.to/d/mgfpn8zypp87/Los_inmortales_El_origen.mp4",
+       	"isHost": "true",
+       	"online": "",
+                "userAgent":"PlusMediaPlayer/0.0.9"
+       	}
+    ]
+}
